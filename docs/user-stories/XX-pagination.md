@@ -1,0 +1,1 @@
+- Pagination to the games listing screen

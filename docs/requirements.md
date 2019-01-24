@@ -50,11 +50,11 @@ quite termolterous - but the situation is really quite dire and you're the only 
 
 ### Sections
 
-1. [App Layout](user-stores/01-app-layout.md)
-2. [View Profile](user-stores/02-view-profile.md)
-3. [Edit Profile](user-stores/03-edit-profile.md)
-4. [Dashboard](user-stores/04-dashboard.md)
-5. [Games Listing](user-stores/05-game-listing.md)
-6. [Edit Game](user-stores/06-game-edit.md)
-7. [Add Game](user-stores/07-game-add.md)
-8. [Games Listing Filters](user-stores/08-games-filters.md)
+1. [App Layout](user-stories/01-app-layout.md)
+2. [View Profile](user-stories/02-view-profile.md)
+3. [Edit Profile](user-stories/03-edit-profile.md)
+4. [Dashboard](user-stories/04-dashboard.md)
+5. [Games Listing](user-stories/05-game-listing.md)
+6. [Edit Game](user-stories/06-game-edit.md)
+7. [Add Game](user-stories/07-game-add.md)
+8. [Games Listing Filters](user-stories/08-games-filters.md)

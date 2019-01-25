@@ -1,6 +1,6 @@
 # App Layout
 
-![Layout](../images/layout.png "Layout")
+![Layout](../images/current/layout.png "Layout")
 
 ## Requirements
 
@@ -14,16 +14,10 @@
 - Route: `/`
 - Unknown routes should go to `/`
 - Footer
-  - TODO:
-  - A way to quickly set your language between English/French
-  - The selected is bold and has an underline to indicate its selection
+  - An empty coloured rectangle for now
 
 ## Details
 
 - APIs Required:
 
   - `GET /profile`: To retrieve the profile information for the header
-  - `GET /languages`: To retrieve the list of languages for the footer
-
-- TODO:
-  - localization (language switching) can be finished later, setting the current language is fine for now.

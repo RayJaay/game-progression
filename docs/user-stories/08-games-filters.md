@@ -1,6 +1,6 @@
 # Games Listing Filters
 
-![Games](../images/games.png "Games")
+![Games Filters](../images/current/games-filters.png "Games Filters")
 
 ## Requirements
 

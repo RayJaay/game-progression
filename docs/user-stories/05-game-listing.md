@@ -1,6 +1,6 @@
 ### Games
 
-![Games](../images/games.png "Games")
+![Games](../images/current/games-listing.png "Games")
 
 - Route: `/games`
 - A card listing of all game entries, showing the following details:

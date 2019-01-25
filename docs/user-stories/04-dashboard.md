@@ -1,13 +1,12 @@
 # Dashboard
 
-![Dashboard](../images/dashboard.png "Dashboard")
+![Dashboard](../images/current/dashboard.png "Dashboard")
 
 ## Requirements
 
 - Route: `/dashboard`
 - If the user goes to `/`, it should redirect to `/dashboard`
 - 'Dashboard' link in navigation should navigate to dashboard and reflect when route is active
-  calculations
 - Display the total number of days required for Katie to finish all her uncompleted games
   - Round to 1 decimal place
 - Show a progress bar to illustrate the % complete of incomplete games out of the total number of games

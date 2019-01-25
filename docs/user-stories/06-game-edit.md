@@ -1,13 +1,32 @@
 # Edit Game
 
+![Edit Game](../images/current/edit-game.png "Add Game")
+
 ## Requirements
 
 - Form Fields
-- The number of hours played
-  - Required and must a number >= 0
-- The priority to finish the game, from 1 to 10 as selection list
+  -- Name of game
   - Required
-- A checkbox on whether they have beaten the game or not
+  - Image URL
+    - Required
+    - You don't have to upload an image here
+      - I copy image addresses from https://howlongtobeat.com/
+  - Platform
+    - Can be a drop-down list or radio buttons - your choice
+    - Platforms retrieved from REST
+    - Placeholder Text: "Choose a platform..."
+  - How many hours to complete game
+    - Required
+    - Must be a positive number
+    - I grab the values from https://howlongtobeat.com/.
+  - Priority between 1 and 10
+    - Required
+    - Placeholder Text: "Choose a priority..."
+  - Hours Played
+    - Default value = 0
+    - Required
+    - must a number >= 0
+  - Completed
 - Form should display error messages per each field and disable the save button until the
 
 ## Details

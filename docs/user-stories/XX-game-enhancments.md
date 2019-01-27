@@ -1,0 +1,1 @@
+- Image uploads using FormData with real-time progress as they are uploading

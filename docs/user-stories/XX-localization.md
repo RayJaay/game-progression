@@ -1,0 +1,1 @@
+- localization using ngx-translate

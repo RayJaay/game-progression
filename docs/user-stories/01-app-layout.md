@@ -13,8 +13,6 @@
 - Body contains whatever the current route should display
 - Route: `/`
 - Unknown routes should go to `/`
-- Footer
-  - An empty coloured rectangle for now
 
 ## Details
 

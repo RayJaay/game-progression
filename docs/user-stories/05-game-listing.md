@@ -1,6 +1,6 @@
-### Games
+# Games
 
-![Games](../images/current/games-listing.png "Games")
+![Games](../images/current/games.png "Games")
 
 - Route: `/games`
 - A card listing of all game entries, showing the following details:
@@ -27,8 +27,8 @@
   - When hovering over a card, the background color should change and
     the cursor should be set to a pointer
     - The background color change should be a animated CSS transition of 200ms
-  - clicking a card will navigate to /game/:id
-  - ADD GAME button will navigate to /game/add
+  - clicking a card will navigate to /games/edit/:id
+  - ADD GAME button will navigate to /games/add
 
 ## Details
 

@@ -1,6 +1,6 @@
 # View Your profile
 
-![Your Profile](../images/current/view-profile.png "Your Profile")
+![Your Profile](../images/current/profile.png "Your Profile")
 
 ## Requirements
 

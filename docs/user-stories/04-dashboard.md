@@ -7,7 +7,7 @@
 - Route: `/dashboard`
 - If the user goes to `/`, it should redirect to `/dashboard`
 - 'Dashboard' link in navigation should navigate to dashboard and reflect when route is active
-- Display the total number of days required for Katie to finish all her uncompleted games
+- Display the total number of days required for Katie to finish all her uncompleted games (based on average number of hours to game per day from the profile)
   - Round to 1 decimal place
 - Show a progress bar to illustrate the % complete of incomplete games out of the total number of games
   - Be sure to account for partial completion from this overall %
@@ -20,3 +20,4 @@
 
 - APIs Required:
   - `GET /games`: To retrieve the list of games to perform
+  - `GET /profile`: To retrieve the average number of hours to game per day

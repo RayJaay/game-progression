@@ -13,7 +13,7 @@ inefficient, and her backlog of games to play is growing by the month!
 Katie needs your help! She’s completely hopeless! She needs a way to catalog her games,
 prioritize the games she wants to play most, and keep track of her completion to get caught
 up. I will warn you, this journey may be a bit scary and unfamiliar - the road can be
-quite termolterous - but the situation is really quite dire and you're the only one who can help! Do you accept this grand quest?
+quite tumultuous - but the situation is really quite dire and you're the only one who can help! Do you accept this grand quest?
 
 ## Requirements
 

@@ -1,12 +1,10 @@
-#### Add Game
+# Add Game
 
-![Add Game](../images/current/add-game.png "Add Game")
+![Add Game](../images/current/games-add.png "Add Game")
 
 - Route: `/games/add`
-- APIs Required:
-  - `GET /platforms`: To retrieve the list of platforms for the platform field
-  - `POST /games`: To add a new game
 - Form Fields
+
   - Name of game
     - Required
   - Image URL
@@ -26,3 +24,9 @@
     - Placeholder Text: "Choose a priority..."
   - Also track when the game was added before submitting a POST request. Make sure to save
     in ISO format with timezone information
+
+## Details
+
+- APIs Required:
+  - `GET /platforms`: To retrieve the list of platforms for the platform field
+  - `POST /games`: To add a new game

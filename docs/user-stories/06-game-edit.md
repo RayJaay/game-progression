@@ -1,9 +1,10 @@
 # Edit Game
 
-![Edit Game](../images/current/edit-game.png "Add Game")
+![Edit Game](../images/current/games-edit.png "Add Game")
 
 ## Requirements
 
+- Route: `/games/edit/:id`
 - Form Fields
   -- Name of game
   - Required
@@ -32,5 +33,7 @@
 ## Details
 
 - APIs Required:
-  - `GET /games`: To retrieve the games current properties to as pre set form values
+  - `GET /games`: To retrieve the games current properties as pre set form values
   - `GET /platforms`: To map platform ID's to display names on games cards
+  - `PUT /games` to update an existing game
+  - `DELETE /games` to remove a game
